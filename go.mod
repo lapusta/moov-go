@@ -1,4 +1,4 @@
-module github.com/moovfinancial/moov-go
+module github.com/lapusta/moov-go
 
 go 1.22.2
 

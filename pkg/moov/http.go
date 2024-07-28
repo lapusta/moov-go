@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	moovgo "github.com/moovfinancial/moov-go"
+	moovgo "github.com/lapusta/moov-go"
 )
 
 func DefaultHttpClient() *http.Client {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/moovfinancial/moov-go/pkg/moov"
+	"github.com/lapusta/moov-go/pkg/moov"
 )
 
 func main() {

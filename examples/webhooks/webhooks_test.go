@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/moovfinancial/moov-go/pkg/mhooks"
+	"github.com/lapusta/moov-go/pkg/mhooks"
 )
 
 // Example handler func for processing a single event type (AccountCreated)

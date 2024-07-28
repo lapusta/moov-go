@@ -52,7 +52,7 @@ IMPROVEMENTS
 - meta: send moov-go version on User-Agent
 - moov: raise query params to their noun level types
 
-Milestone: https://github.com/moovfinancial/moov-go/issues?q=is%3Aissue+milestone%3Av0.2.0+
+Milestone: https://github.com/lapusta/moov-go/issues?q=is%3Aissue+milestone%3Av0.2.0+
 
 ## v0.1.0 (Released 2024-04-23)
 

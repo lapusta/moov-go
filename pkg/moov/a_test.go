@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/moovfinancial/moov-go/pkg/moov"
+	"github.com/lapusta/moov-go/pkg/moov"
 	"github.com/stretchr/testify/require"
 )
 

@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	moduleName = "github.com/moovfinancial/moov-go"
+	moduleName = "github.com/lapusta/moov-go"
 )
 
 func Version() string {

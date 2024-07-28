@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/moovfinancial/moov-go/pkg/moov"
+	"github.com/lapusta/moov-go/pkg/moov"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

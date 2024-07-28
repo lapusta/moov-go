@@ -1,8 +1,8 @@
-![Moov Logo](https://github.com/moovfinancial/moov-go/assets/120951/3632d9ea-0c64-40e5-8f9e-b13b28b5e197)
+![Moov Logo](https://github.com/lapusta/moov-go/assets/120951/3632d9ea-0c64-40e5-8f9e-b13b28b5e197)
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/moovfinancial/moovgo?utm_source=godoc)](https://pkg.go.dev/github.com/moovfinancial/moov-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/moovfinancial/moov-go)](https://goreportcard.com/report/github.com/moovfinancial/moov-go)
-[![Apache 2 License](https://img.shields.io/badge/license-Apache2-blue.svg)](https://raw.githubusercontent.com/moovfinancial/moov-go/master/LICENSE)
+[![GoDoc](https://pkg.go.dev/badge/github.com/lapusta/moovgo?utm_source=godoc)](https://pkg.go.dev/github.com/lapusta/moov-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lapusta/moov-go)](https://goreportcard.com/report/github.com/lapusta/moov-go)
+[![Apache 2 License](https://img.shields.io/badge/license-Apache2-blue.svg)](https://raw.githubusercontent.com/lapusta/moov-go/master/LICENSE)
 [![X](https://img.shields.io/twitter/follow/moov?style=social)](https://twitter.com/moov?lang=en)
 
 
@@ -13,7 +13,7 @@ The official [Go](http://golang.org) client for the [Moov payments API](https://
 
 ```go
 import (
-	"github.com/moovfinancial/moov-go/pkg/moov"
+	"github.com/lapusta/moov-go/pkg/moov"
 )
 ```
 
